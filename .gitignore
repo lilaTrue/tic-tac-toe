@@ -170,4 +170,4 @@ settings.ini
 secrets.json
 credentials.json
 
-.clinerules
+.clinerules/
