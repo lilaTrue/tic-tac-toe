@@ -119,10 +119,6 @@ The hard AI uses the **Minimax** algorithm with optimization:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by classic Tic Tac Toe games
