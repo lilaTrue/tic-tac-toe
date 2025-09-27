@@ -1,0 +1,3 @@
+# Dependencies for the Tic Tac Toe game
+# No external dependencies needed for the base version
+# Uses only Python standard library

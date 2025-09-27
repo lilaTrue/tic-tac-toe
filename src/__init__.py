@@ -1,0 +1,6 @@
+"""
+Package principal du jeu Tic Tac Toe.
+"""
+
+__version__ = "1.0.0"
+__author__ = "Développeur Senior"
