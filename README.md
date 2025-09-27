@@ -41,19 +41,8 @@ python main.py
 1. **Launch the game**: `python main.py`
 2. **Choose difficulty**: 1 (Easy), 2 (Medium), 3 (Hard)
 3. **Make your move**: Enter coordinates in `row,column` format (ex: `0,1`)
-4. **The board**:
-   ```
-     0   1   2
-   ┌───┬───┬───┐
-  0│   │   │   │
-   ├───┼───┼───┤
-  1│   │   │   │
-   ├───┼───┼───┤
-  2│   │   │   │
-   └───┴───┴───┘
-   ```
-5. **You are X**, AI is **O**
-6. **Replay**: Choose to replay after each game
+4. **You are X**, AI is **O**
+5. **Replay**: Choose to replay after each game
 
 ## 🧪 Tests
 
